@@ -1,0 +1,19 @@
+{
+  "analysis": "CARE-KM partition stability across 30 matched 80% resamples",
+  "reference_partition": "04_carekm_reference_labels.csv",
+  "resample_partition_source": "semantic_stability_member_comparison.csv",
+  "repetitions": 30,
+  "label_alignment_required": false,
+  "hungarian_assignment_used": false,
+  "metrics": [
+    "ARI",
+    "NMI",
+    "AMI"
+  ],
+  "sample_hash_verified_against_notebook_06": true,
+  "outputs": [
+    "partition_stability_resample_metrics.csv",
+    "partition_stability_summary.csv",
+    "partition_stability_sample_integrity.csv"
+  ]
+}

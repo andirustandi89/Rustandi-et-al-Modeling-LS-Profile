@@ -1,0 +1,17 @@
+ls_class,semantic_label,preference_signature,behavioral_profile_variant,learners
+LS05,Act.-Int.-Vis.-Seq.,Act.1|Int.3|Vis.9|Seq.3,"LS05 [Act.1, Int.3, Vis.9, Seq.3]",1671
+LS10,Ref.-Sens.-Vis.-Gl.,Ref.1|Sens.1|Vis.1|Gl.1,"LS10 [Ref.1, Sens.1, Vis.1, Gl.1]",512
+LS09,Ref.-Sens.-Vis.-Seq.,Ref.1|Sens.3|Vis.9|Seq.5,"LS09 [Ref.1, Sens.3, Vis.9, Seq.5]",467
+LS13,Ref.-Int.-Vis.-Seq.,Ref.1|Int.1|Vis.9|Seq.3,"LS13 [Ref.1, Int.1, Vis.9, Seq.3]",455
+LS02,Act.-Sens.-Vis.-Gl.,Act.1|Sens.1|Vis.9|Gl.3,"LS02 [Act.1, Sens.1, Vis.9, Gl.3]",422
+LS06,Act.-Int.-Vis.-Gl.,Act.1|Int.3|Vis.7|Gl.3,"LS06 [Act.1, Int.3, Vis.7, Gl.3]",366
+LS14,Ref.-Int.-Vis.-Gl.,Ref.1|Int.1|Vis.3|Gl.1,"LS14 [Ref.1, Int.1, Vis.3, Gl.1]",343
+LS03,Act.-Sens.-Ver.-Seq.,Act.3|Sens.3|Ver.5|Seq.1,"LS03 [Act.3, Sens.3, Ver.5, Seq.1]",325
+LS10,Ref.-Sens.-Vis.-Gl.,Ref.1|Sens.3|Vis.1|Gl.3,"LS10 [Ref.1, Sens.3, Vis.1, Gl.3]",321
+LS06,Act.-Int.-Vis.-Gl.,Act.3|Int.1|Vis.9|Gl.5,"LS06 [Act.3, Int.1, Vis.9, Gl.5]",307
+LS14,Ref.-Int.-Vis.-Gl.,Ref.1|Int.5|Vis.1|Gl.3,"LS14 [Ref.1, Int.5, Vis.1, Gl.3]",302
+LS06,Act.-Int.-Vis.-Gl.,Act.3|Int.1|Vis.5|Gl.3,"LS06 [Act.3, Int.1, Vis.5, Gl.3]",297
+LS14,Ref.-Int.-Vis.-Gl.,Ref.1|Int.1|Vis.1|Gl.3,"LS14 [Ref.1, Int.1, Vis.1, Gl.3]",276
+LS05,Act.-Int.-Vis.-Seq.,Act.3|Int.3|Vis.9|Seq.3,"LS05 [Act.3, Int.3, Vis.9, Seq.3]",242
+LS01,Act.-Sens.-Vis.-Seq.,Act.1|Sens.3|Vis.9|Seq.1,"LS01 [Act.1, Sens.3, Vis.9, Seq.1]",194
+LS10,Ref.-Sens.-Vis.-Gl.,Ref.1|Sens.1|Vis.7|Gl.1,"LS10 [Ref.1, Sens.1, Vis.7, Gl.1]",158

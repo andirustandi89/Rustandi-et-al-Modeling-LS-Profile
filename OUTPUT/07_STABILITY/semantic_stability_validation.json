@@ -1,0 +1,30 @@
+{
+  "analysis": "FSLSM semantic-label stability across matched resamples",
+  "reference": "full-data CARE-KM semantic interpretation from Notebook 08",
+  "resampling_protocol": "30 matched 80% learner subsamples",
+  "repetitions": 30,
+  "fraction": 0.8,
+  "base_seed": 6161600,
+  "same_sampling_protocol_as_notebook_06": true,
+  "sample_hash_verified_against_notebook_06": true,
+  "semantic_feedback_to_clustering": false,
+  "hungarian_assignment": false,
+  "one_to_one_constraint": false,
+  "questionnaire_ground_truth_claim": false,
+  "base_ls_agreement_mean": 0.42436475153335834,
+  "all_four_direction_agreement_mean": 0.42436475153335834,
+  "mean_direction_agreement": 0.7799302165477531,
+  "mean_score_exact_agreement": 0.4900081361872575,
+  "mean_abs_score_change": 1.6094817874577543,
+  "unresolved_learner_rate_mean": 0.0012079108774565026,
+  "output_files": [
+    "semantic_stability_resample_summary.csv",
+    "semantic_stability_metric_summary.csv",
+    "semantic_stability_dimension_summary.csv",
+    "semantic_stability_ls_class_summary.csv",
+    "semantic_stability_ls_transition.csv",
+    "semantic_stability_cluster_mapping.csv",
+    "semantic_stability_member_comparison.csv",
+    "semantic_stability_sample_integrity.csv"
+  ]
+}

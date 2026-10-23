@@ -1,0 +1,65 @@
+cluster_id,cluster_name,cluster_size,dimension,selected_pole,decision_source,mapped_features,mode_positive,mode_negative,mode_neutral,mode_score,member_positive,member_negative,member_neutral,member_score,positive_adjusted_evidence,negative_adjusted_evidence,positive_11eq_units,negative_11eq_units,member_11eq_raw_score,preference_11eq_score,preference_11eq_magnitude,preference_category,preference_code,mode_member_consistency
+0,C01,1671,Active/Reflective,Act.,MODE,9,5,4,0,1,7423,6205,1411,1218,8128.500000,6910.500000,6,5,1,1,1,Balanced,Act.1,True
+0,C01,1671,Sensing/Intuitive,Int.,MODE,6,2,4,0,-2,3453,5623,950,-2170,3928.000000,6098.000000,4,7,-3,-3,3,Balanced,Int.3,True
+0,C01,1671,Visual/Verbal,Vis.,MODE,4,4,0,0,4,5906,202,576,5704,6194.000000,490.000000,10,1,9,9,9,Strong preference,Vis.9,True
+0,C01,1671,Sequential/Global,Seq.,MODE,3,2,1,0,1,2803,1364,846,1439,3226.000000,1787.000000,7,4,3,3,3,Balanced,Seq.3,True
+1,C02,512,Active/Reflective,Ref.,MODE,9,2,4,3,-2,1264,1694,1650,-430,2089.000000,2519.000000,5,6,-1,-1,1,Balanced,Ref.1,True
+1,C02,512,Sensing/Intuitive,Sens.,MODE,6,2,1,3,1,1103,655,1314,448,1760.000000,1312.000000,6,5,1,1,1,Balanced,Sens.1,True
+1,C02,512,Visual/Verbal,Vis.,MEMBER,4,2,2,0,0,818,732,498,86,1067.000000,981.000000,6,5,1,1,1,Balanced,Vis.1,True
+1,C02,512,Sequential/Global,Gl.,MEMBER,3,1,1,1,0,392,610,534,-218,659.000000,877.000000,5,6,-1,-1,1,Balanced,Gl.1,True
+2,C03,343,Active/Reflective,Ref.,MODE,9,1,3,5,-2,717,1082,1288,-365,1361.000000,1726.000000,5,6,-1,-1,1,Balanced,Ref.1,True
+2,C03,343,Sensing/Intuitive,Int.,MODE,6,1,2,3,-1,618,612,828,6,1032.000000,1026.000000,6,5,1,-1,1,Balanced,Int.1,False
+2,C03,343,Visual/Verbal,Vis.,MODE,4,1,0,3,1,557,124,691,433,902.500000,469.500000,7,4,3,3,3,Balanced,Vis.3,True
+2,C03,343,Sequential/Global,Gl.,MODE,3,0,1,2,-1,222,290,517,-68,480.500000,548.500000,5,6,-1,-1,1,Balanced,Gl.1,True
+3,C04,321,Active/Reflective,Ref.,MODE,9,3,4,2,-1,1012,1112,765,-100,1394.500000,1494.500000,5,6,-1,-1,1,Balanced,Ref.1,True
+3,C04,321,Sensing/Intuitive,Sens.,MODE,6,4,1,1,3,942,496,488,446,1186.000000,740.000000,7,4,3,3,3,Balanced,Sens.3,True
+3,C04,321,Visual/Verbal,Vis.,MEMBER,4,2,2,0,0,525,503,256,22,653.000000,631.000000,6,5,1,1,1,Balanced,Vis.1,True
+3,C04,321,Sequential/Global,Gl.,MODE,3,0,2,1,-2,141,473,349,-332,315.500000,647.500000,4,7,-3,-3,3,Balanced,Gl.3,True
+4,C05,366,Active/Reflective,Act.,MODE,9,3,2,4,1,1203,1023,1068,180,1737.000000,1557.000000,6,5,1,1,1,Balanced,Act.1,True
+4,C05,366,Sensing/Intuitive,Int.,MODE,6,0,3,3,-3,367,1036,793,-669,763.500000,1432.500000,4,7,-3,-3,3,Balanced,Int.3,True
+4,C05,366,Visual/Verbal,Vis.,MODE,4,3,0,1,3,1062,45,357,1017,1240.500000,223.500000,9,2,7,7,7,Moderate preference,Vis.7,True
+4,C05,366,Sequential/Global,Gl.,MODE,3,1,2,0,-1,229,595,274,-366,366.000000,732.000000,4,7,-3,-3,3,Balanced,Gl.3,True
+5,C06,297,Active/Reflective,Act.,MODE,9,5,2,2,3,1293,740,640,553,1613.000000,1060.000000,7,4,3,3,3,Balanced,Act.3,True
+5,C06,297,Sensing/Intuitive,Int.,MODE,6,2,3,1,-1,608,840,334,-232,775.000000,1007.000000,5,6,-1,-1,1,Balanced,Int.1,True
+5,C06,297,Visual/Verbal,Vis.,MODE,4,2,0,2,2,667,58,463,609,898.500000,289.500000,8,3,5,5,5,Moderate preference,Vis.5,True
+5,C06,297,Sequential/Global,Gl.,MODE,3,0,2,1,-2,129,423,339,-294,298.500000,592.500000,4,7,-3,-3,3,Balanced,Gl.3,True
+6,C07,455,Active/Reflective,Ref.,MODE,9,3,4,2,-1,1261,1677,1157,-416,1839.500000,2255.500000,5,6,-1,-1,1,Balanced,Ref.1,True
+6,C07,455,Sensing/Intuitive,Int.,MODE,6,1,3,2,-2,685,1026,1019,-341,1194.500000,1535.500000,5,6,-1,-1,1,Balanced,Int.1,True
+6,C07,455,Visual/Verbal,Vis.,MODE,4,4,0,0,4,1484,55,281,1429,1624.500000,195.500000,10,1,9,9,9,Strong preference,Vis.9,True
+6,C07,455,Sequential/Global,Seq.,MODE,3,1,0,2,1,489,156,720,333,849.000000,516.000000,7,4,3,3,3,Balanced,Seq.3,True
+7,C08,467,Active/Reflective,Ref.,MODE,9,3,4,2,-1,1495,1621,1087,-126,2038.500000,2164.500000,5,6,-1,-1,1,Balanced,Ref.1,True
+7,C08,467,Sensing/Intuitive,Sens.,MODE,6,4,1,1,3,1507,540,755,967,1884.500000,917.500000,7,4,3,3,3,Balanced,Sens.3,True
+7,C08,467,Visual/Verbal,Vis.,MODE,4,4,0,0,4,1511,105,252,1406,1637.000000,231.000000,10,1,9,9,9,Strong preference,Vis.9,True
+7,C08,467,Sequential/Global,Seq.,MODE,3,2,0,1,2,718,201,482,517,959.000000,442.000000,8,3,5,5,5,Moderate preference,Seq.5,True
+8,C09,422,Active/Reflective,Act.,MODE,9,4,2,3,2,1645,1033,1120,612,2205.000000,1593.000000,6,5,1,1,1,Balanced,Act.1,True
+8,C09,422,Sensing/Intuitive,Sens.,MODE,6,2,1,3,1,877,676,979,201,1366.500000,1165.500000,6,5,1,1,1,Balanced,Sens.1,True
+8,C09,422,Visual/Verbal,Vis.,MODE,4,3,0,1,3,1316,40,332,1276,1482.000000,206.000000,10,1,9,9,9,Strong preference,Vis.9,True
+8,C09,422,Sequential/Global,Gl.,MODE,3,0,1,2,-1,163,463,640,-300,483.000000,783.000000,4,7,-3,-3,3,Balanced,Gl.3,True
+9,C10,158,Active/Reflective,Ref.,MEMBER,9,2,2,5,0,404,421,597,-17,702.500000,719.500000,5,6,-1,-1,1,Balanced,Ref.1,True
+9,C10,158,Sensing/Intuitive,Sens.,MODE,6,2,1,3,1,338,209,401,129,538.500000,409.500000,6,5,1,1,1,Balanced,Sens.1,True
+9,C10,158,Visual/Verbal,Vis.,MODE,4,3,0,1,3,431,45,156,386,509.000000,123.000000,9,2,7,7,7,Moderate preference,Vis.7,True
+9,C10,158,Sequential/Global,Gl.,MODE,3,0,1,2,-1,95,117,262,-22,226.000000,248.000000,5,6,-1,-1,1,Balanced,Gl.1,True
+10,C11,276,Active/Reflective,Ref.,MODE,9,2,6,1,-4,738,1127,619,-389,1047.500000,1436.500000,5,6,-1,-1,1,Balanced,Ref.1,True
+10,C11,276,Sensing/Intuitive,Int.,MODE,6,2,3,1,-1,590,600,466,-10,823.000000,833.000000,5,6,-1,-1,1,Balanced,Int.1,True
+10,C11,276,Visual/Verbal,Vis.,MEMBER,4,1,1,2,0,382,260,462,122,613.000000,491.000000,6,5,1,1,1,Balanced,Vis.1,True
+10,C11,276,Sequential/Global,Gl.,MODE,3,1,2,0,-1,266,462,100,-196,316.000000,512.000000,4,7,-3,-3,3,Balanced,Gl.3,True
+11,C12,325,Active/Reflective,Act.,MODE,9,6,2,1,4,1566,842,517,724,1824.500000,1100.500000,7,4,3,3,3,Balanced,Act.3,True
+11,C12,325,Sensing/Intuitive,Sens.,MODE,6,4,1,1,3,1119,424,407,695,1322.500000,627.500000,7,4,3,3,3,Balanced,Sens.3,True
+11,C12,325,Visual/Verbal,Ver.,MODE,4,1,3,0,-2,295,876,129,-581,359.500000,940.500000,3,8,-5,-5,5,Moderate preference,Ver.5,True
+11,C12,325,Sequential/Global,Seq.,MEMBER,3,1,1,1,0,378,273,324,105,540.000000,435.000000,6,5,1,1,1,Balanced,Seq.1,True
+12,C13,307,Active/Reflective,Act.,MODE,9,6,3,0,3,1507,864,392,643,1703.000000,1060.000000,7,4,3,3,3,Balanced,Act.3,True
+12,C13,307,Sensing/Intuitive,Int.,MODE,6,2,4,0,-2,696,832,314,-136,853.000000,989.000000,5,6,-1,-1,1,Balanced,Int.1,True
+12,C13,307,Visual/Verbal,Vis.,MODE,4,4,0,0,4,1091,38,99,1053,1140.500000,87.500000,10,1,9,9,9,Strong preference,Vis.9,True
+12,C13,307,Sequential/Global,Gl.,MODE,3,0,2,1,-2,92,507,322,-415,253.000000,668.000000,3,8,-5,-5,5,Moderate preference,Gl.5,True
+13,C14,242,Active/Reflective,Act.,MODE,9,5,2,2,3,1108,543,527,565,1371.500000,806.500000,7,4,3,3,3,Balanced,Act.3,True
+13,C14,242,Sensing/Intuitive,Int.,MODE,6,1,3,2,-2,377,656,419,-279,586.500000,865.500000,4,7,-3,-3,3,Balanced,Int.3,True
+13,C14,242,Visual/Verbal,Vis.,MODE,4,4,0,0,4,862,26,80,836,902.000000,66.000000,10,1,9,9,9,Strong preference,Vis.9,True
+13,C14,242,Sequential/Global,Seq.,MODE,3,2,0,1,2,346,91,289,255,490.500000,235.500000,7,4,3,3,3,Balanced,Seq.3,True
+14,C15,302,Active/Reflective,Ref.,MODE,9,3,5,1,-2,956,1270,492,-314,1202.000000,1516.000000,5,6,-1,-1,1,Balanced,Ref.1,True
+14,C15,302,Sensing/Intuitive,Int.,MODE,6,1,4,1,-3,380,1101,331,-721,545.500000,1266.500000,3,8,-5,-5,5,Moderate preference,Int.5,True
+14,C15,302,Visual/Verbal,Vis.,MEMBER,4,2,2,0,0,621,404,183,217,712.500000,495.500000,6,5,1,1,1,Balanced,Vis.1,True
+14,C15,302,Sequential/Global,Gl.,MODE,3,0,2,1,-2,110,422,374,-312,297.000000,609.000000,4,7,-3,-3,3,Balanced,Gl.3,True
+15,C16,194,Active/Reflective,Act.,MODE,9,4,3,2,1,719,557,470,162,954.000000,792.000000,6,5,1,1,1,Balanced,Act.1,True
+15,C16,194,Sensing/Intuitive,Sens.,MODE,6,4,1,1,3,605,241,318,364,764.000000,400.000000,7,4,3,3,3,Balanced,Sens.3,True
+15,C16,194,Visual/Verbal,Vis.,MODE,4,4,0,0,4,642,31,103,611,693.500000,82.500000,10,1,9,9,9,Strong preference,Vis.9,True
+15,C16,194,Sequential/Global,Seq.,MEMBER,3,1,1,1,0,224,144,214,80,331.000000,251.000000,6,5,1,1,1,Balanced,Seq.1,True

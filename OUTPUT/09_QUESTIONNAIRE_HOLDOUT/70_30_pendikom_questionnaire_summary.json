@@ -1,0 +1,31 @@
+{
+  "source": "DATA/PENDIKOM/compiled_pendikom_moodle_logs.csv",
+  "repository": "https://github.com/Dewi2501/Learning-Style-Based",
+  "selection": "has_ils == 1",
+  "source_rows": 565,
+  "ils_rows": 461,
+  "train_rows": 322,
+  "test_rows": 139,
+  "split_file": "DATA/PENDIKOM/pendikom_ils_split_161600.csv",
+  "split_seed_reference": 161600,
+  "core_features": 19,
+  "used_features": 18,
+  "constant_features": [
+    "navigation_skip"
+  ],
+  "resolved_train_learners": 322,
+  "unresolved_train_learners": 0,
+  "care_train_dbi": 1.6518771506271506,
+  "care_train_si": 0.1298109259488564,
+  "care_config": {
+    "candidate_rule": "separation",
+    "candidate_budget": 16,
+    "min_gain": 0.0
+  },
+  "parent_initializer": "Cao",
+  "refinement_budget_rule": "ceil(log2(candidate_budget))",
+  "derived_refinement_budget": 4,
+  "exchange_depth_is_independent_hyperparameter": false,
+  "care_implementation_version": "encoded-incremental-derived-budget-v3",
+  "note": "ILS labels are not used to form CARE-KM clusters or semantic mapping; they are used as the independent questionnaire reference on the frozen holdout."
+}

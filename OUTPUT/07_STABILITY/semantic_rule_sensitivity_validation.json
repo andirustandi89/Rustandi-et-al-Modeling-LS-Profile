@@ -1,0 +1,22 @@
+{
+  "analysis": "semantic rule sensitivity",
+  "clustering_changed": false,
+  "reference_partition": "04_carekm_reference_labels.csv",
+  "semantic_evidence_changed": false,
+  "reference_mapping": "08_cluster_to_fslsm_mapping.csv",
+  "primary_reproduced_exactly": true,
+  "hungarian_assignment": false,
+  "one_to_one_constraint": false,
+  "rules": {
+    "PRIMARY_MODE_FIRST": "mode direction; member evidence only for exact mode tie",
+    "MEMBER_FIRST": "member direction; mode evidence only for exact member tie",
+    "MODE_ONLY": "mode direction only; exact mode ties unresolved",
+    "MEMBER_ONLY": "member direction only; exact member ties unresolved"
+  },
+  "outputs": [
+    "semantic_rule_sensitivity_all_mappings.csv",
+    "semantic_rule_sensitivity_summary.csv",
+    "semantic_rule_sensitivity_dimension_summary.csv",
+    "semantic_rule_sensitivity_cluster_comparison.csv"
+  ]
+}

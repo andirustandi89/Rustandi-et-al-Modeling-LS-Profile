@@ -1,0 +1,5 @@
+Evidence / Model,A/R Acc.,S/I Acc.,V/V Acc.,S/G Acc.,Mean Acc.,Mean BA,Mean F1
+Direct cluster-derived profile,93.53%,82.73%,91.37%,91.37%,89.75%,81.29%,82.98%
+Naive Bayes,92.81%,83.45%,94.96%,92.09%,90.83%,81.18%,83.99%
+Decision Tree,93.53%,76.26%,94.96%,87.77%,88.13%,78.25%,78.91%
+SVM,93.53%,80.58%,94.24%,90.65%,89.75%,80.24%,81.57%
