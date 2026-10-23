@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Rustandi et al. - Modeling Learning Style Profiles through Cluster-Derived Supervision"
+type: software
+authors:
+  - family-names: Rustandi
+    given-names: Andi
+  - family-names: Mulyana
+    given-names: Sri
+  - family-names: Priyanta
+    given-names: Sigit
+version: 1.0.0
+date-released: 2026-10-24
+repository-code: "https://github.com/andirustandi89/Rustandi-et-al-Modeling-LS-Profile"
+license: MIT

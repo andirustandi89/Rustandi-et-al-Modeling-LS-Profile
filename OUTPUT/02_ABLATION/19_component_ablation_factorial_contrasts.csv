@@ -1,0 +1,36 @@
+contrast_id,contrast,left,right,component_question,metric,direction,n_pairs,left_mean,right_mean,mean_difference_left_minus_right,median_difference_left_minus_right,left_wins,ties,left_losses,wilcoxon_statistic,wilcoxon_p_two_sided,holm_p_within_metric
+C0,Full CARE-KM vs Cao parent,A4,A0,net contribution beyond Cao parent,initial_cost,lower,20,20211.400000,21279.300000,-1067.900000,-1067.500000,20,0,0,0.000000,0.000088,0.000265
+C1,Region effect under density screening,A2,A1,provisional-region restriction,initial_cost,lower,20,19977.150000,20652.000000,-674.850000,-642.000000,20,0,0,0.000000,0.000002,0.000010
+C2,Region effect under separation screening,A4,A3,provisional-region restriction,initial_cost,lower,20,20211.400000,20605.200000,-393.800000,-319.500000,20,0,0,0.000000,0.000002,0.000010
+C3,Separation effect without region restriction,A3,A1,separation-based candidate screening,initial_cost,lower,20,20605.200000,20652.000000,-46.800000,-81.500000,11,1,8,79.000000,0.519657,0.519657
+C4,Separation effect with region restriction,A4,A2,separation-based candidate screening,initial_cost,lower,20,20211.400000,19977.150000,234.250000,260.500000,6,0,14,27.000000,0.002325,0.004650
+C0,Full CARE-KM vs Cao parent,A4,A0,net contribution beyond Cao parent,final_cost,lower,20,19191.100000,19526.100000,-335.000000,-335.500000,17,0,3,9.000000,0.000338,0.001352
+C1,Region effect under density screening,A2,A1,provisional-region restriction,final_cost,lower,20,19118.600000,18990.750000,127.850000,106.500000,6,0,14,41.000000,0.015312,0.045937
+C2,Region effect under separation screening,A4,A3,provisional-region restriction,final_cost,lower,20,19191.100000,19272.200000,-81.100000,-140.000000,15,0,5,62.000000,0.113987,0.227974
+C3,Separation effect without region restriction,A3,A1,separation-based candidate screening,final_cost,lower,20,19272.200000,18990.750000,281.450000,239.500000,0,0,20,0.000000,0.000002,0.000010
+C4,Separation effect with region restriction,A4,A2,separation-based candidate screening,final_cost,lower,20,19191.100000,19118.600000,72.500000,60.500000,9,0,11,74.000000,0.261099,0.261099
+C0,Full CARE-KM vs Cao parent,A4,A0,net contribution beyond Cao parent,dbi,lower,20,1.708762,1.793429,-0.084668,-0.112817,15,0,5,65.000000,0.142906,0.285812
+C1,Region effect under density screening,A2,A1,provisional-region restriction,dbi,lower,20,2.592601,6.173664,-3.581063,-3.643387,20,0,0,0.000000,0.000002,0.000010
+C2,Region effect under separation screening,A4,A3,provisional-region restriction,dbi,lower,20,1.708762,1.666189,0.042572,-0.003308,11,0,9,91.000000,0.621513,0.621513
+C3,Separation effect without region restriction,A3,A1,separation-based candidate screening,dbi,lower,20,1.666189,6.173664,-4.507475,-4.571016,20,0,0,0.000000,0.000002,0.000010
+C4,Separation effect with region restriction,A4,A2,separation-based candidate screening,dbi,lower,20,1.708762,2.592601,-0.883840,-0.752757,19,0,1,2.000000,0.000006,0.000017
+C0,Full CARE-KM vs Cao parent,A4,A0,net contribution beyond Cao parent,si,higher,20,0.119146,0.111305,0.007841,0.006275,17,0,3,21.000000,0.000851,0.001701
+C1,Region effect under density screening,A2,A1,provisional-region restriction,si,higher,20,0.091563,0.063598,0.027965,0.026360,17,0,3,9.000000,0.000063,0.000189
+C2,Region effect under separation screening,A4,A3,provisional-region restriction,si,higher,20,0.119146,0.120211,-0.001065,0.000291,10,0,10,96.000000,0.756166,0.756166
+C3,Separation effect without region restriction,A3,A1,separation-based candidate screening,si,higher,20,0.120211,0.063598,0.056613,0.063826,20,0,0,0.000000,0.000002,0.000010
+C4,Separation effect with region restriction,A4,A2,separation-based candidate screening,si,higher,20,0.119146,0.091563,0.027583,0.027320,18,0,2,3.000000,0.000010,0.000038
+C0,Full CARE-KM vs Cao parent,A4,A0,net contribution beyond Cao parent,iterations,lower,20,2.700000,3.650000,-0.950000,-1.000000,12,7,1,5.000000,0.003240,0.016200
+C1,Region effect under density screening,A2,A1,provisional-region restriction,iterations,lower,20,2.750000,3.450000,-0.700000,0.000000,9,10,1,3.000000,0.010853,0.043413
+C2,Region effect under separation screening,A4,A3,provisional-region restriction,iterations,lower,20,2.700000,3.000000,-0.300000,0.000000,7,9,4,20.000000,0.218272,0.436544
+C3,Separation effect without region restriction,A3,A1,separation-based candidate screening,iterations,lower,20,3.000000,3.450000,-0.450000,0.000000,8,11,1,9.000000,0.103491,0.310472
+C4,Separation effect with region restriction,A4,A2,separation-based candidate screening,iterations,lower,20,2.700000,2.750000,-0.050000,0.000000,6,8,6,36.000000,0.796253,0.796253
+C0,Full CARE-KM vs Cao parent,A4,A0,net contribution beyond Cao parent,init_sec,lower,20,0.446261,0.069047,0.377214,0.313975,0,0,20,0.000000,0.000002,0.000010
+C1,Region effect under density screening,A2,A1,provisional-region restriction,init_sec,lower,20,0.415390,0.485452,-0.070062,-0.023087,18,0,2,33.000000,0.005581,0.022324
+C2,Region effect under separation screening,A4,A3,provisional-region restriction,init_sec,lower,20,0.446261,0.565085,-0.118823,-0.039271,16,0,4,58.000000,0.082550,0.247650
+C3,Separation effect without region restriction,A3,A1,separation-based candidate screening,init_sec,lower,20,0.565085,0.485452,0.079633,0.009571,4,0,16,62.000000,0.113987,0.247650
+C4,Separation effect with region restriction,A4,A2,separation-based candidate screening,init_sec,lower,20,0.446261,0.415390,0.030871,0.002724,9,0,11,96.000000,0.756166,0.756166
+C0,Full CARE-KM vs Cao parent,A4,A0,net contribution beyond Cao parent,total_sec,lower,20,0.707804,0.425314,0.282490,0.284031,2,0,18,17.000000,0.000395,0.001974
+C1,Region effect under density screening,A2,A1,provisional-region restriction,total_sec,lower,20,0.708052,0.765176,-0.057125,-0.038930,15,0,5,55.000000,0.063723,0.212677
+C2,Region effect under separation screening,A4,A3,provisional-region restriction,total_sec,lower,20,0.707804,0.895432,-0.187628,-0.046664,14,0,6,53.000000,0.053169,0.212677
+C3,Separation effect without region restriction,A3,A1,separation-based candidate screening,total_sec,lower,20,0.895432,0.765176,0.130255,0.022799,5,0,15,74.000000,0.261099,0.522198
+C4,Separation effect with region restriction,A4,A2,separation-based candidate screening,total_sec,lower,20,0.707804,0.708052,-0.000248,0.011648,10,0,10,97.000000,0.784126,0.784126

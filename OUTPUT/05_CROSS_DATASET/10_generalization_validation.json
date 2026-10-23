@@ -1,0 +1,26 @@
+{
+  "datasets": 10,
+  "dataset_keys": [
+    "car",
+    "lymphography",
+    "hayes_roth",
+    "australian_credit",
+    "chronic_kidney",
+    "annealing",
+    "statlog_heart",
+    "heart_disease",
+    "thyroid_disease",
+    "nursery"
+  ],
+  "methods": 7,
+  "full_stochastic_repetitions": 10,
+  "resample_repetitions": 30,
+  "resample_fraction": 0.8,
+  "full_rows": 70,
+  "resample_summary_rows": 70,
+  "resample_raw_rows": 2100,
+  "matched_resampling": true,
+  "without_replacement": true,
+  "clustering_rerun": true,
+  "source_location": "CARE-KM-PAPER/DATA"
+}

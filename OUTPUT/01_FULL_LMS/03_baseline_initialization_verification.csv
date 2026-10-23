@@ -1,0 +1,8 @@
+method,same_k,same_feature_count,same_smd_metric,same_kmodes_optimizer,initial_cost,final_cost,iterations,init_sec_smoke
+Random,True,True,True,True,26443.000000,24379.000000,3,0.000164
+Huang,True,True,True,True,28603.000000,24476.000000,3,0.046656
+Cao,True,True,True,True,26981.000000,24701.000000,3,0.045644
+Bai,True,True,True,True,26291.000000,24123.000000,3,10.130094
+K-Modes++,True,True,True,True,26008.000000,23485.000000,5,0.023718
+HR-2023,True,True,True,True,28603.000000,24476.000000,3,0.044411
+CARE-KM,True,True,True,True,25611.000000,23822.000000,4,0.252978

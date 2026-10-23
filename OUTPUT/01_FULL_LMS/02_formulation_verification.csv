@@ -1,0 +1,2 @@
+toy_rows,toy_features,k,parent_initializer,candidate_budget,derived_refinement_budget,cao_initial_cost,care_initial_cost,accepted_exchanges,stopping_reason,smd_direct_equals_library,encoded_smd_equals_object_smd,path_starts_from_cao,care_nonworsening_vs_cao
+12,3,3,Cao,16,4,11.000000,11.000000,0,NO_POSITIVE_GAIN,True,True,True,True

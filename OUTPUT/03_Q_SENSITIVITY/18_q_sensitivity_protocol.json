@@ -1,0 +1,44 @@
+{
+  "purpose": "diagnostic sensitivity analysis; not hyperparameter tuning or model selection",
+  "q_values": [
+    2,
+    4,
+    8,
+    16,
+    32,
+    64
+  ],
+  "primary_q": 16,
+  "refinement_budget_rule": "ceil(log2(candidate_budget))",
+  "derived_budgets": {
+    "2": 1,
+    "4": 2,
+    "8": 3,
+    "16": 4,
+    "32": 5,
+    "64": 6
+  },
+  "repetitions": 20,
+  "fraction": 0.8,
+  "base_seed": 5161600,
+  "matched_resamples": true,
+  "K": 16,
+  "candidate_rule": "separation",
+  "min_gain": 0.0,
+  "max_kmodes_iterations": 100,
+  "si_sample_size": 2000,
+  "care_implementation_version": "encoded-incremental-derived-budget-v3",
+  "frozen_q16_metadata": {
+    "candidate_rule": "separation",
+    "candidate_budget": 16,
+    "min_gain": 0.0,
+    "parent_initializer": "Cao",
+    "refinement_budget_rule": "ceil(log2(candidate_budget))",
+    "derived_refinement_budget": 4,
+    "exchange_depth_is_independent_hyperparameter": false
+  },
+  "dataset_path": "DATA/MAIN_LMS/main_lms_categorical.csv",
+  "dataset_sha256": "57fef508915e617faf6a2c4dfb1b72f6a00f6ec008b8622f703d016503a9b319",
+  "care_source_path": "CODE/LIB/care_km.py",
+  "care_source_sha256": "80046c658fd7f9462e987fc5ece73241c6bc0fa094305895549a7c4b455c8628"
+}

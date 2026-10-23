@@ -1,0 +1,16 @@
+{
+  "seed": 4161600,
+  "initial_cost": 25611.0,
+  "final_cost": 23822.0,
+  "dbi": 1.5410206820311785,
+  "si": 0.1196156090083584,
+  "iterations": 4,
+  "parent_initializer": "Cao",
+  "care_config": {
+    "candidate_rule": "separation",
+    "candidate_budget": 16,
+    "min_gain": 0.0
+  },
+  "refinement_budget_rule": "ceil(log2(candidate_budget))",
+  "derived_refinement_budget": 4
+}

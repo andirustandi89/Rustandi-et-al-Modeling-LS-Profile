@@ -1,0 +1,16 @@
+size_variable,runtime_variable,spearman_rho,n_datasets
+rows,init_sec_mean,0.8303030303030303,10
+rows,cluster_sec_mean,0.696969696969697,10
+rows,total_sec_mean,0.793939393939394,10
+features,init_sec_mean,0.37690143708164003,10
+features,cluster_sec_mean,0.6686960980480711,10
+features,total_sec_mean,0.6079055436800646,10
+classes,init_sec_mean,0.6061881843392659,10
+classes,cluster_sec_mean,0.4041254562261773,10
+classes,total_sec_mean,0.4041254562261773,10
+n_times_d,init_sec_mean,0.9030303030303031,10
+n_times_d,cluster_sec_mean,0.8545454545454545,10
+n_times_d,total_sec_mean,0.9151515151515152,10
+n_times_d_times_k,init_sec_mean,0.9636363636363636,10
+n_times_d_times_k,cluster_sec_mean,0.9151515151515152,10
+n_times_d_times_k,total_sec_mean,0.9515151515151515,10
