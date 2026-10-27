@@ -1,4 +1,4 @@
-# Modeling Learning Style Profiles through Cluster-Derived Supervision
+# Behavior-Driven Cluster-Derived Supervision for Learning Style Profiling: Reproducibility Package
 
 This repository contains the reproducibility package for the manuscript **“Modeling Learning Style Profiles through Cluster-Derived Supervision.”** It includes the CARE-KM implementation, local Python scripts, frozen learner splits, semantic mappings, benchmark metadata, and the outputs used in the manuscript.
 
