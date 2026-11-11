@@ -1,0 +1,67 @@
+{
+  "content_visit": {
+    "low": 75.0,
+    "high": 100.0,
+    "method": "GRAF_FIXED"
+  },
+  "content_stay": {
+    "low": 17.983332999999995,
+    "high": 46.48333299999998,
+    "method": "EMPIRICAL"
+  },
+  "selfass_visit_proxy": {
+    "low": 25.0,
+    "high": 75.0,
+    "method": "GRAF_FIXED"
+  },
+  "selfass_stay_proxy": {
+    "low": 11.666667,
+    "high": 42.62222233333325,
+    "method": "EMPIRICAL"
+  },
+  "exercise_visit_proxy": {
+    "low": 25.0,
+    "high": 75.0,
+    "method": "GRAF_FIXED"
+  },
+  "exercise_stay_proxy": {
+    "low": 5.066667,
+    "high": 24.472221999999977,
+    "method": "EMPIRICAL"
+  },
+  "forum_visit": {
+    "low": 0.13691033333333308,
+    "high": 0.5263933333333333,
+    "method": "GRAF_FALLBACK_POSITIVE_Q33_Q67"
+  },
+  "forum_stay": {
+    "low": 0.025936333333333318,
+    "high": 0.19782233333333318,
+    "method": "GRAF_FALLBACK_POSITIVE_Q33_Q67"
+  },
+  "forum_post": {
+    "low": 0.0,
+    "high": 0.128626,
+    "method": "ZERO_AWARE_POSITIVE_MEDIAN"
+  },
+  "quiz_stay_results_proxy": {
+    "low": 30.0,
+    "high": 60.0,
+    "method": "GRAF_FIXED"
+  },
+  "navigation_overview_visit": {
+    "low": 43.157080666666666,
+    "high": 51.329400333333325,
+    "method": "GRAF_FALLBACK_POSITIVE_Q33_Q67"
+  },
+  "navigation_overview_stay": {
+    "low": 13.183333,
+    "high": 27.055555666666653,
+    "method": "EMPIRICAL"
+  },
+  "return_to_overview_rate": {
+    "low": 0.226415,
+    "high": 0.29298199999999996,
+    "method": "EMPIRICAL"
+  }
+}
