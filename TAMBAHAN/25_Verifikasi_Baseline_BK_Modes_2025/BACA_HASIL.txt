@@ -1,6 +1,0 @@
-Tahap 25 memverifikasi implementasi BK-Modes dan menguji subset TRAIN.
-01_verifikasi_kasus_kecil.csv: uji definisi SMD, ties, invalid inputs, dan reference independen.
-02_ringkasan_pilot.csv: ringkasan dua subset train.
-PILOT/: input terpilih, mode, assignment, serta trace biseksi.
-Hasil ini belum merupakan perbandingan penuh atau hasil untuk mengganti tabel manuskrip.
-Waktu di sini adalah pengukuran pilot tunggal, bukan benchmark komparatif runtime.
