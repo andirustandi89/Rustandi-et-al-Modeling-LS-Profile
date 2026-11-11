@@ -1,0 +1,23 @@
+{
+  "stage": 10,
+  "care_implementation_version": "encoded-incremental-derived-budget-v3",
+  "care_km_sha256": "80046c658fd7f9462e987fc5ece73241c6bc0fa094305895549a7c4b455c8628",
+  "candidate_budget": 16,
+  "refinement_budget_rule": "ceil(log2(candidate_budget))",
+  "derived_refinement_budget": 4,
+  "datasets_verified": [
+    "car",
+    "lymphography",
+    "hayes_roth",
+    "australian_credit",
+    "chronic_kidney",
+    "annealing",
+    "statlog_heart",
+    "heart_disease",
+    "thyroid_disease",
+    "nursery"
+  ],
+  "full_care_runs": 10,
+  "resample_care_runs": 300,
+  "published_baseline_checkpoints_reused": true
+}

@@ -1,0 +1,37 @@
+{
+  "dataset": "thyroid_disease",
+  "source_file": "thyroid+disease.zip",
+  "source_sha256": "a0982569a7442c03a20815db58f271245e7a111b10ac46f6c6b5fa6feee4c1f4",
+  "k": 3,
+  "methods": [
+    "Random",
+    "Huang",
+    "Cao",
+    "Bai",
+    "K-Modes++",
+    "HR-2023",
+    "CARE-KM"
+  ],
+  "care_config": {
+    "candidate_rule": "separation",
+    "candidate_budget": 16,
+    "min_gain": 0.0
+  },
+  "care_metadata": {
+    "candidate_rule": "separation",
+    "candidate_budget": 16,
+    "min_gain": 0.0,
+    "parent_initializer": "Cao",
+    "refinement_budget_rule": "ceil(log2(candidate_budget))",
+    "derived_refinement_budget": 4,
+    "exchange_depth_is_independent_hyperparameter": false
+  },
+  "care_implementation_version": "encoded-incremental-derived-budget-v3",
+  "care_km_sha256": "80046c658fd7f9462e987fc5ece73241c6bc0fa094305895549a7c4b455c8628",
+  "full_stochastic_reps": 10,
+  "resample_reps": 30,
+  "fraction": 0.8,
+  "base_seed": 120000,
+  "si_sample_size": 2000,
+  "max_iter": 100
+}
