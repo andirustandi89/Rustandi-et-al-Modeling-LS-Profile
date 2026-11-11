@@ -1,0 +1,30 @@
+{
+  "table_count": 13,
+  "figure_count": 8,
+  "generalization_dataset_count": 10,
+  "generalization_source": "REVISED/DATA",
+  "artifacts": {
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_01_lms_full_data.csv": "3eb153f3d348ac6956dbe2d953c0a9bad5073219c959381409aedbe63f724b4c",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_02_refinement_trajectory.csv": "ed19b2d478d9991be644a4e8eba31821c2397d6abe27818524b98cff7054602f",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_03_lms_robustness.csv": "0b0b966a7b8895c17f0fa67e8f5ad400d175b7ace64d7b6783a425503285fd5a",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_04_lms_statistics.csv": "65365478c57b72b1047ddc3831bdd37be1ce29e99c981ba98a1658282b091b43",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_05_fslsm_mapping.csv": "9ee4a7890bdca8931163f891a312084387d867fd4a9e0df704e78586d1e8cebb",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_05b_fslsm_strength_profiles.csv": "e8c3cc188ce20200d71a39e7920c1703ca19ddb0f5ed0402c9b621e9bc4ed7ef",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_06_generalization_datasets.csv": "b206e1a6c3e4a4b0c0df7661ed166f71669e4a7a91346913d423592d6827c15e",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_07_generalization_average_rank.csv": "f00d9dde40a6917054e2ed240f44dbabe9d8029049bf1e8aeb1283737c948d16",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_08_cross_dataset_friedman_kendall.csv": "70069f32d9a8456de6425bf778d3f8b9409de498c85a0ff0145568ec4761bfef",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_09_cross_dataset_pairwise.csv": "275b925bfdc24046a6f3510ac8d34f8dd79f4912e87febf50d0338e2891407df",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_10_runtime_scalability.csv": "f75434f44b8371d65c05689a36599e3854441e96bcdcc9d6e97730929cb86da7",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_11_stability_failure.csv": "7c126b74d807f470577962c4e713848ce4eb6f9965f7b6d478978e76830a0f88",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/13_table_12_generalization_care_full.csv": "f9bbac794319d5cdc329f0e87835ce32a67937596f5e2430a3cfd9c5c2b26450",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_01_lms_full_dbi.png": "535812cf45281b0be428d167feca731e52699e0bea7955353743183dbd37789d",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_02_lms_full_si.png": "4203a12bfc17484d0be98fe637f3835668b2d2127044ed816f8221a3f8c25d30",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_03_generalization_rank_dbi.png": "cf5934c548e435aef9aba158fcc7117e88ed107fa3fbfef68b1ead69268e9ea8",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_04_generalization_rank_si.png": "19999c3be5b995632518a232908544816fed5ec4f7e354f25cbea6ff76b5d2c2",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_05_care_runtime_scaling.png": "8156bf07374e32d147b1bce940ca2d4401dda83de14d9e53be30bd80687480f3",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_06_lms_robustness_dbi_paired.png": "01c078e394535df0cfd841d9346985e3ba5f68d0e211dc7bd04629c6e8ef26b9",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_07_lms_robustness_si_paired.png": "ab3e7d19b02a7423e10ac5354c351a0215f05b6580c78a033bab10f7b5b404b0",
+    "OUTPUT/TABEL_DAN_GAMBAR/13_paper_tables_and_figures/FIGURES/13_fig_08_fslsm_preference_signature_heatmap.png": "39897af446404926d0030190915ade13d0ab5e9a5a8ba182f8ea8b615b0ef67a"
+  },
+  "note": "No clustering is executed in notebook 13."
+}

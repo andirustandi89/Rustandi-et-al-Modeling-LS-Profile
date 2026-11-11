@@ -1,0 +1,11 @@
+dataset,display,source_file,rows,features,classes,reference_rows,reference_features,reference_k,missing_cells,duplicate_feature_rows,min_cardinality,max_cardinality,rows_match_reference,features_match_reference,k_match_reference,metadata_match,valid,source_sha256
+car,Car Evaluation,dataset_car+evaluation.zip,1728,6,4,1728,6,4,0,0,3,4,True,True,True,True,True,1559d51dcf327f4f8c71b711ceed7fd95a382fc8d8e1998667f4f23b82860403
+lymphography,Lymphography,dataset_lymphography.zip,148,18,4,148,18,4,0,0,2,8,True,True,True,True,True,082ff211040ad7dc2122e92441aa3eee494ab6496fecdcd86a440fe863ee5b6f
+hayes_roth,Hayes-Roth,hayes+roth.zip,160,3,3,160,3,3,0,102,4,4,True,True,True,True,True,c034173ccd2f04e887afa8688be86ec10d72f2f1e8481e967ac60d8d04a711f1
+australian_credit,Statlog Australian Credit Approval,statlog+australian+credit+approval.zip,690,14,2,690,14,2,0,3,2,8,True,True,True,True,True,f0bd9cd9b1d133cb20456b8953e1f8139fd30ed2b3f66da540db75136f1e9e0b
+chronic_kidney,Chronic Kidney Disease,chronic+kidney+disease.zip,400,24,2,400,24,2,1012,0,3,11,True,True,True,True,True,3f0d0e5bab0f453165acfa2c77eae695393089c5b338cb4cd98339c96a26a585
+annealing,Annealing,annealing.zip,898,38,5,898,38,5,22175,140,1,10,True,True,True,True,True,75bcc8f872dda28a0fb2954235eb53fc9d6e34f0115577199fddd5a1583251a7
+statlog_heart,Statlog Heart,statlog+heart.zip,270,13,2,270,13,2,0,0,2,5,True,True,True,True,True,04e44018af4f4b32008029fbfb1079e112d3b372bb032dd1ae361c74d7528b2c
+heart_disease,Heart Disease (Cleveland),heart+disease.zip,303,13,2,303,13,2,6,1,2,5,True,True,True,True,True,b17cd273da9ce1caa4710fce80227ea454d4dbf9fcbc8e6a9121672751563adc
+thyroid_disease,Thyroid Disease (New Thyroid subset),thyroid+disease.zip,215,5,3,215,5,3,0,35,5,5,True,True,True,True,True,a0982569a7442c03a20815db58f271245e7a111b10ac46f6c6b5fa6feee4c1f4
+nursery,Nursery,dataset_nursery.zip,12960,8,5,12960,8,5,0,0,2,5,True,True,True,True,True,914780f5e3050895216cb91f9e4a1408f3c0813b5854d5a6d6c601c2882091dd
