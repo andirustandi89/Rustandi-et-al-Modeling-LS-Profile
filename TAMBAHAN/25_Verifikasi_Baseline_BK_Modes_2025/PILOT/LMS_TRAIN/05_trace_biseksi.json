@@ -1,0 +1,628 @@
+[
+  {
+    "step": 1,
+    "parent_node": 0,
+    "parent_rows": 256,
+    "parent_cost": 1610,
+    "child_nodes": [
+      1,
+      2
+    ],
+    "child_rows": [
+      136,
+      120
+    ],
+    "child_costs": [
+      593,
+      717
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "3",
+      "3",
+      "2"
+    ],
+    "farthest_source_row": 1,
+    "two_modes_iterations": 5,
+    "empty_repairs": 0,
+    "objective_history": [
+      1414,
+      1353,
+      1318,
+      1310,
+      1310
+    ]
+  },
+  {
+    "step": 2,
+    "parent_node": 2,
+    "parent_rows": 120,
+    "parent_cost": 717,
+    "child_nodes": [
+      3,
+      4
+    ],
+    "child_rows": [
+      68,
+      52
+    ],
+    "child_costs": [
+      361,
+      296
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "1",
+      "2",
+      "3",
+      "3",
+      "1",
+      "1",
+      "2",
+      "3",
+      "2"
+    ],
+    "farthest_source_row": 74,
+    "two_modes_iterations": 5,
+    "empty_repairs": 0,
+    "objective_history": [
+      686,
+      673,
+      657,
+      657,
+      657
+    ]
+  },
+  {
+    "step": 3,
+    "parent_node": 1,
+    "parent_rows": 136,
+    "parent_cost": 593,
+    "child_nodes": [
+      5,
+      6
+    ],
+    "child_rows": [
+      79,
+      57
+    ],
+    "child_costs": [
+      271,
+      257
+    ],
+    "parent_mode": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "3",
+      "1",
+      "2"
+    ],
+    "farthest_source_row": 80,
+    "two_modes_iterations": 5,
+    "empty_repairs": 0,
+    "objective_history": [
+      568,
+      559,
+      540,
+      528,
+      528
+    ]
+  },
+  {
+    "step": 4,
+    "parent_node": 3,
+    "parent_rows": 68,
+    "parent_cost": 361,
+    "child_nodes": [
+      7,
+      8
+    ],
+    "child_rows": [
+      46,
+      22
+    ],
+    "child_costs": [
+      221,
+      116
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "1",
+      "2",
+      "3",
+      "3",
+      "1",
+      "1",
+      "2",
+      "3",
+      "2"
+    ],
+    "farthest_source_row": 156,
+    "two_modes_iterations": 5,
+    "empty_repairs": 0,
+    "objective_history": [
+      345,
+      342,
+      338,
+      337,
+      337
+    ]
+  },
+  {
+    "step": 5,
+    "parent_node": 4,
+    "parent_rows": 52,
+    "parent_cost": 296,
+    "child_nodes": [
+      9,
+      10
+    ],
+    "child_rows": [
+      39,
+      13
+    ],
+    "child_costs": [
+      203,
+      64
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "2",
+      "3",
+      "3",
+      "3",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1"
+    ],
+    "farthest_source_row": 110,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      267,
+      267
+    ]
+  },
+  {
+    "step": 6,
+    "parent_node": 5,
+    "parent_rows": 79,
+    "parent_cost": 271,
+    "child_nodes": [
+      11,
+      12
+    ],
+    "child_rows": [
+      65,
+      14
+    ],
+    "child_costs": [
+      187,
+      60
+    ],
+    "parent_mode": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "3",
+      "1",
+      "2"
+    ],
+    "farthest_source_row": 33,
+    "two_modes_iterations": 4,
+    "empty_repairs": 0,
+    "objective_history": [
+      251,
+      247,
+      247,
+      247
+    ]
+  },
+  {
+    "step": 7,
+    "parent_node": 6,
+    "parent_rows": 57,
+    "parent_cost": 257,
+    "child_nodes": [
+      13,
+      14
+    ],
+    "child_rows": [
+      43,
+      14
+    ],
+    "child_costs": [
+      170,
+      57
+    ],
+    "parent_mode": [
+      "1",
+      "1",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "farthest_source_row": 92,
+    "two_modes_iterations": 5,
+    "empty_repairs": 0,
+    "objective_history": [
+      240,
+      236,
+      229,
+      227,
+      227
+    ]
+  },
+  {
+    "step": 8,
+    "parent_node": 7,
+    "parent_rows": 46,
+    "parent_cost": 221,
+    "child_nodes": [
+      15,
+      16
+    ],
+    "child_rows": [
+      35,
+      11
+    ],
+    "child_costs": [
+      152,
+      55
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "1",
+      "2",
+      "3",
+      "3",
+      "1",
+      "3",
+      "2",
+      "3",
+      "2"
+    ],
+    "farthest_source_row": 58,
+    "two_modes_iterations": 3,
+    "empty_repairs": 0,
+    "objective_history": [
+      207,
+      207,
+      207
+    ]
+  },
+  {
+    "step": 9,
+    "parent_node": 9,
+    "parent_rows": 39,
+    "parent_cost": 203,
+    "child_nodes": [
+      17,
+      18
+    ],
+    "child_rows": [
+      31,
+      8
+    ],
+    "child_costs": [
+      152,
+      34
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "2",
+      "3",
+      "3",
+      "3",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1"
+    ],
+    "farthest_source_row": 202,
+    "two_modes_iterations": 4,
+    "empty_repairs": 0,
+    "objective_history": [
+      190,
+      188,
+      186,
+      186
+    ]
+  },
+  {
+    "step": 10,
+    "parent_node": 11,
+    "parent_rows": 65,
+    "parent_cost": 187,
+    "child_nodes": [
+      19,
+      20
+    ],
+    "child_rows": [
+      51,
+      14
+    ],
+    "child_costs": [
+      110,
+      59
+    ],
+    "parent_mode": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "3",
+      "1",
+      "2"
+    ],
+    "farthest_source_row": 214,
+    "two_modes_iterations": 3,
+    "empty_repairs": 0,
+    "objective_history": [
+      169,
+      169,
+      169
+    ]
+  },
+  {
+    "step": 11,
+    "parent_node": 13,
+    "parent_rows": 43,
+    "parent_cost": 170,
+    "child_nodes": [
+      21,
+      22
+    ],
+    "child_rows": [
+      39,
+      4
+    ],
+    "child_costs": [
+      147,
+      13
+    ],
+    "parent_mode": [
+      "1",
+      "1",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "farthest_source_row": 62,
+    "two_modes_iterations": 3,
+    "empty_repairs": 0,
+    "objective_history": [
+      161,
+      160,
+      160
+    ]
+  },
+  {
+    "step": 12,
+    "parent_node": 15,
+    "parent_rows": 35,
+    "parent_cost": 152,
+    "child_nodes": [
+      23,
+      24
+    ],
+    "child_rows": [
+      19,
+      16
+    ],
+    "child_costs": [
+      72,
+      57
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "1",
+      "2",
+      "3",
+      "3",
+      "1",
+      "3",
+      "2",
+      "3",
+      "2"
+    ],
+    "farthest_source_row": 111,
+    "two_modes_iterations": 6,
+    "empty_repairs": 0,
+    "objective_history": [
+      143,
+      142,
+      140,
+      130,
+      129,
+      129
+    ]
+  },
+  {
+    "step": 13,
+    "parent_node": 17,
+    "parent_rows": 31,
+    "parent_cost": 152,
+    "child_nodes": [
+      25,
+      26
+    ],
+    "child_rows": [
+      28,
+      3
+    ],
+    "child_costs": [
+      132,
+      9
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "2",
+      "3",
+      "3",
+      "3",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1"
+    ],
+    "farthest_source_row": 36,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      141,
+      141
+    ]
+  },
+  {
+    "step": 14,
+    "parent_node": 21,
+    "parent_rows": 39,
+    "parent_cost": 147,
+    "child_nodes": [
+      27,
+      28
+    ],
+    "child_rows": [
+      35,
+      4
+    ],
+    "child_costs": [
+      123,
+      15
+    ],
+    "parent_mode": [
+      "1",
+      "1",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ],
+    "farthest_source_row": 80,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      138,
+      138
+    ]
+  },
+  {
+    "step": 15,
+    "parent_node": 25,
+    "parent_rows": 28,
+    "parent_cost": 132,
+    "child_nodes": [
+      29,
+      30
+    ],
+    "child_rows": [
+      25,
+      3
+    ],
+    "child_costs": [
+      112,
+      9
+    ],
+    "parent_mode": [
+      "1",
+      "3",
+      "3",
+      "3",
+      "2",
+      "3",
+      "3",
+      "3",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1"
+    ],
+    "farthest_source_row": 74,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      121,
+      121
+    ]
+  }
+]
