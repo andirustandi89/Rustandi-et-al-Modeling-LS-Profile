@@ -1,0 +1,37 @@
+{
+  "input_files": {
+    "lms_numeric": "/content/drive/MyDrive/REVISED/OUTPUT/PRAPROSES/01_Praproses_main_LMS/02_dataset_behavioral_numeric.csv",
+    "lms_categorical": "/content/drive/MyDrive/REVISED/OUTPUT/PRAPROSES/01_Praproses_main_LMS/05_dataset_behavioral_categorical_skala.csv",
+    "pendikom_numeric": "/content/drive/MyDrive/REVISED/OUTPUT/PRAPROSES/02_Praproses_Pendikom/01_numeric_behavioral_pendikom.csv",
+    "pendikom_categorical": "/content/drive/MyDrive/REVISED/OUTPUT/PRAPROSES/02_Praproses_Pendikom/02_categorical_behavioral_pendikom.csv"
+  },
+  "LMS": {
+    "train": 4660,
+    "test": 1998
+  },
+  "PENDIKOM": {
+    "train": 322,
+    "test": 139
+  },
+  "split_source": "keanggotaan peserta dari protokol tetap",
+  "features_pendikom": [
+    "content_visit",
+    "content_stay",
+    "selfass_visit",
+    "selfass_twice_wrong",
+    "exercise_visit",
+    "exercise_stay",
+    "ques_detail",
+    "ques_overview",
+    "ques_facts",
+    "ques_concepts",
+    "ques_graphics",
+    "ques_text",
+    "ques_interpret",
+    "ques_develop",
+    "quiz_revisions",
+    "quiz_stay_results",
+    "navigation_overview_visit",
+    "navigation_overview_stay"
+  ]
+}

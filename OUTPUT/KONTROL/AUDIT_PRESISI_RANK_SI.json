@@ -1,0 +1,317 @@
+{
+  "audit_utc": "2026-11-05T22:42:55.732915+00:00",
+  "root": "/content/drive/MyDrive/REVISED",
+  "environment": {
+    "python": "3.13.18",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "sklearn": "1.6.1"
+  },
+  "care_km_sha256": "80046c658fd7f9462e987fc5ece73241c6bc0fa094305895549a7c4b455c8628",
+  "catatan": "Audit membaca hasil tersimpan; tidak menjalankan ulang eksperimen atau mengubah hasilnya.",
+  "car_si_teks_asli": [
+    {
+      "dataset": "car",
+      "method": "Cao",
+      "run": "0",
+      "si": "0.0756807081355281",
+      "seed": "120000",
+      "source_sha256": "1559d51dcf327f4f8c71b711ceed7fd95a382fc8d8e1998667f4f23b82860403"
+    },
+    {
+      "dataset": "car",
+      "method": "Bai",
+      "run": "0",
+      "si": "0.0756807081355281",
+      "seed": "120000",
+      "source_sha256": "1559d51dcf327f4f8c71b711ceed7fd95a382fc8d8e1998667f4f23b82860403"
+    },
+    {
+      "dataset": "car",
+      "method": "CARE-KM",
+      "run": "0",
+      "si": "0.0756807081355281",
+      "seed": "120000",
+      "source_sha256": "1559d51dcf327f4f8c71b711ceed7fd95a382fc8d8e1998667f4f23b82860403"
+    }
+  ],
+  "rank_full_si_dari_raw_default": {
+    "Bai": 4.4,
+    "CARE-KM": 1.2,
+    "Cao": 3.1,
+    "HR-2023": 5.5,
+    "Huang": 5.5,
+    "K-Modes++": 4.3,
+    "Random": 4.0
+  },
+  "car_si_dan_rank_default": [
+    {
+      "dataset": "car",
+      "method": "Bai",
+      "si": 0.0756807081355281,
+      "rank_si": 2.0
+    },
+    {
+      "dataset": "car",
+      "method": "CARE-KM",
+      "si": 0.0756807081355281,
+      "rank_si": 2.0
+    },
+    {
+      "dataset": "car",
+      "method": "Cao",
+      "si": 0.0756807081355281,
+      "rank_si": 2.0
+    },
+    {
+      "dataset": "car",
+      "method": "HR-2023",
+      "si": 0.07411334359793056,
+      "rank_si": 4.5
+    },
+    {
+      "dataset": "car",
+      "method": "Huang",
+      "si": 0.07411334359793056,
+      "rank_si": 4.5
+    },
+    {
+      "dataset": "car",
+      "method": "K-Modes++",
+      "si": 0.07129272593086616,
+      "rank_si": 7.0
+    },
+    {
+      "dataset": "car",
+      "method": "Random",
+      "si": 0.0736166594899111,
+      "rank_si": 6.0
+    }
+  ],
+  "rank_full_si_dari_raw_round_trip": {
+    "Bai": 4.4,
+    "CARE-KM": 1.2,
+    "Cao": 3.1,
+    "HR-2023": 5.5,
+    "Huang": 5.5,
+    "K-Modes++": 4.3,
+    "Random": 4.0
+  },
+  "car_si_dan_rank_round_trip": [
+    {
+      "dataset": "car",
+      "method": "Bai",
+      "si": 0.0756807081355281,
+      "rank_si": 2.0
+    },
+    {
+      "dataset": "car",
+      "method": "CARE-KM",
+      "si": 0.0756807081355281,
+      "rank_si": 2.0
+    },
+    {
+      "dataset": "car",
+      "method": "Cao",
+      "si": 0.0756807081355281,
+      "rank_si": 2.0
+    },
+    {
+      "dataset": "car",
+      "method": "HR-2023",
+      "si": 0.07411334359793056,
+      "rank_si": 4.5
+    },
+    {
+      "dataset": "car",
+      "method": "Huang",
+      "si": 0.07411334359793056,
+      "rank_si": 4.5
+    },
+    {
+      "dataset": "car",
+      "method": "K-Modes++",
+      "si": 0.07129272593086616,
+      "rank_si": 7.0
+    },
+    {
+      "dataset": "car",
+      "method": "Random",
+      "si": 0.0736166594899111,
+      "rank_si": 6.0
+    }
+  ],
+  "average_rank_si_hasil_Colab": [
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "CARE-KM",
+      "average_rank": 1.2
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Cao",
+      "average_rank": 3.1
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Random",
+      "average_rank": 4.0
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "K-Modes++",
+      "average_rank": 4.3
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Bai",
+      "average_rank": 4.4
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "HR-2023",
+      "average_rank": 5.5
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Huang",
+      "average_rank": 5.5
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "CARE-KM",
+      "average_rank": 1.1
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "K-Modes++",
+      "average_rank": 3.3
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Cao",
+      "average_rank": 3.9
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Bai",
+      "average_rank": 4.2
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Random",
+      "average_rank": 4.5
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "HR-2023",
+      "average_rank": 5.4
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Huang",
+      "average_rank": 5.6
+    }
+  ],
+  "average_rank_si_acuan_LOGS": [
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "CARE-KM",
+      "average_rank": 1.1
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Cao",
+      "average_rank": 3.15
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Random",
+      "average_rank": 4.0
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "K-Modes++",
+      "average_rank": 4.3
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Bai",
+      "average_rank": 4.45
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "HR-2023",
+      "average_rank": 5.5
+    },
+    {
+      "source": "full",
+      "metric": "si",
+      "method": "Huang",
+      "average_rank": 5.5
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "CARE-KM",
+      "average_rank": 1.1
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "K-Modes++",
+      "average_rank": 3.3
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Cao",
+      "average_rank": 3.9
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Bai",
+      "average_rank": 4.2
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Random",
+      "average_rank": 4.5
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "HR-2023",
+      "average_rank": 5.4
+    },
+    {
+      "source": "resample_mean",
+      "metric": "si",
+      "method": "Huang",
+      "average_rank": 5.6
+    }
+  ]
+}

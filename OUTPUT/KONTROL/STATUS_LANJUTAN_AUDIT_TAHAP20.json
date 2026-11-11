@@ -1,0 +1,16 @@
+{
+  "waktu_utc": "2026-11-05T22:55:58.946658+00:00",
+  "tahap20_gambar_selesai": true,
+  "mode": "audit; perbedaan tidak disamarkan sebagai cocok",
+  "hasil_LOGS": {
+    "COCOK": 151,
+    "WAKTU_TIDAK_DIBANDINGKAN": 6,
+    "BERBEDA": 5,
+    "IDENTIK_KOSONG": 1
+  },
+  "hasil_manuskrip": {
+    "COCOK": 377,
+    "WAKTU_TIDAK_DIBANDINGKAN": 6
+  },
+  "catatan": "Status gagal verifikasi tahap 13 pada master tetap dipertahankan sebagai riwayat. Nilai hasil dan acuan tidak ditimpa."
+}

@@ -1,0 +1,164 @@
+file,status,keterangan
+70_30_table_external_validation_carekm_vs_ils_numeric.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_table_classifier_dimensional_accuracy_vs_ils_numeric.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_SVM_sensing_intuitive_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_SVM_visual_verbal_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_SVM_active_reflective_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_NB_sensing_intuitive_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_table_classifier_dimensional_accuracy_vs_ils.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_SVM_sequential_global_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_classifier_predictions.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_table11_dimensional_performance_vs_ils_numeric.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_NB_sequential_global_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_NB_active_reflective_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_DT_active_reflective_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_NB_visual_verbal_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_DT_sequential_global_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_table11_dimensional_performance_vs_ils.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_classifier_dimension_metrics.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_DT_sensing_intuitive_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_feature_audit.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_frozen_cluster_to_ls_mapping.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_table_external_validation_carekm_vs_ils.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_test_carekm_vs_ils_full.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_frozen_modes.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_split_audit.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_main_lms_prospective_dimensional_accuracy_numeric.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_train_userids.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_main_lms_frozen_cluster_to_fslsm_mapping.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_main_lms_train_only_thresholds.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_semantic_rules.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_test_userids.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_main_lms_frozen_modes.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_08_cross_dataset_friedman_kendall.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_05b_fslsm_strength_profiles.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_DT_visual_verbal_confusion_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_main_lms_prospective_predictions.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_main_lms_split_indices.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_06_generalization_datasets.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+12_full_runtime_scalability.csv,WAKTU_TIDAK_DIBANDINGKAN,Biaya runtime bergantung perangkat; file tetap tersedia untuk audit.
+70_30_groundtruth_clustering_baseline_raw.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_main_lms_prospective_dimensional_accuracy.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+09_generalization_dataset_audit.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+06_robustness_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_10_runtime_scalability.csv,WAKTU_TIDAK_DIBANDINGKAN,Biaya runtime bergantung perangkat; file tetap tersedia untuk audit.
+10_cross_dataset_full.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_11_stability_failure.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_09_cross_dataset_pairwise.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_03_lms_robustness.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+07_effect_size_wtl.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_12_generalization_care_full.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_stability_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_02_refinement_trajectory.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+12_care_runtime_scalability.csv,WAKTU_TIDAK_DIBANDINGKAN,Biaya runtime bergantung perangkat; file tetap tersedia untuk audit.
+02_toy_care_initial_modes.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+08_final_cluster_modes.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+08_cluster_to_fslsm_mapping.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_07_generalization_average_rank.csv,BERBEDA,"Kolom average_rank, baris data 29: baru=np.float64(1.2); LOGS=np.float64(1.1)"
+10_average_rank.csv,BERBEDA,"Kolom average_rank, baris data 29: baru=np.float64(1.2); LOGS=np.float64(1.1)"
+semantic_stability_sample_integrity.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_full_data_wtl.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_05_fslsm_mapping.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+02_formulation_verification.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+08_profile_variant_distribution.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+12_care_scalability_correlations.csv,WAKTU_TIDAK_DIBANDINGKAN,Biaya runtime bergantung perangkat; file tetap tersedia untuk audit.
+13_table_01_lms_full_data.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+12_stability_failure_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+12_resample_runtime_scalability.csv,WAKTU_TIDAK_DIBANDINGKAN,Biaya runtime bergantung perangkat; file tetap tersedia untuk audit.
+08_balanced_learners.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+04_carekm_reference_labels.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+70_30_groundtruth_clustering_baseline.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_cross_dataset_ranks.csv,BERBEDA,"Kolom rank, baris data 19: baru=np.float64(2.0); LOGS=np.float64(2.5)"
+11_cross_dataset_pairwise_wilcoxon_holm.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+11_friedman_kendall.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+08_pseudolabel_distribution.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_full_data_wtl_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_stability_cluster_mapping.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+04_full_dataset_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+07_efficiency_paired_summary.csv,WAKTU_TIDAK_DIBANDINGKAN,Biaya runtime bergantung perangkat; file tetap tersedia untuk audit.
+10_cross_dataset_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+04_carekm_reference_initial_modes.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_cross_dataset_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+03_baseline_initialization_verification.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+preprocessing_sensitivity_feature_changes.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+08_semantic_evidence_matrix.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+12_stability_failure_method_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+00_dataset_audit.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_stability_ls_transition.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_stability_dimension_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+12_stability_failure_raw_flags.csv,BERBEDA,"Kolom initial_cost, baris data 437: baru=np.float64(3978.0); LOGS=np.float64(4403.0)"
+partition_stability_sample_integrity.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+partition_stability_resample_metrics.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_cross_dataset_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+semantic_rule_sensitivity_dimension_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+partition_stability_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+04_full_dataset_raw.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+13_table_04_lms_statistics.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_stability_ls_class_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_stability_metric_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+04_carekm_reference_final_modes.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_rule_sensitivity_all_mappings.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+08_theory_guided_pseudolabeled_dataset.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_rule_sensitivity_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+semantic_rule_sensitivity_cluster_comparison.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+07_wilcoxon_holm.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+19_COMPONENT_ABLATION/19_component_ablation_pairwise_vs_full.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+06_robustness_raw.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+preprocessing_sensitivity_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+05_ablation_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+05_refinement_trajectory_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+08_cluster_dimension_evidence.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+19_COMPONENT_ABLATION/19_component_ablation_table.csv,BERBEDA,"Kolom Init time (s), baris data 1: baru=np.float64(0.074711); LOGS=np.float64(0.069047)"
+19_COMPONENT_ABLATION/19_component_ablation_raw.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+07_bootstrap_ci.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+02_exchange_trace.csv,IDENTIK_KOSONG,
+18_Q_SENSITIVITY/18_q_sensitivity_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/nursery_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+18_Q_SENSITIVITY/18_q_sensitivity_paired_vs_q16.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+preprocessing_sensitivity_learner_semantic.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+19_COMPONENT_ABLATION/19_component_ablation_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+18_Q_SENSITIVITY/18_q_sensitivity_raw.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/thyroid_disease_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/nursery_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/thyroid_disease_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/nursery_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/nursery_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+19_COMPONENT_ABLATION/19_component_ablation_factorial_contrasts.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/heart_disease_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+preprocessing_sensitivity_thresholds.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/heart_disease_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/heart_disease_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/statlog_heart_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+05_refinement_trajectory_raw.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; metadata diagnostik dua format divalidasi/disetarakan
+05_ablation_raw.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; metadata diagnostik dua format divalidasi/disetarakan
+10_GENERALIZATION_CHECKPOINTS/australian_credit_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/thyroid_disease_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/annealing_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/chronic_kidney_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/car_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/chronic_kidney_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/australian_credit_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/statlog_heart_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/statlog_heart_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/thyroid_disease_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/annealing_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/lymphography_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/lymphography_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/statlog_heart_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/hayes_roth_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/hayes_roth_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/annealing_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/australian_credit_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/heart_disease_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/annealing_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/hayes_roth_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/chronic_kidney_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/australian_credit_resample_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/hayes_roth_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+semantic_stability_member_comparison.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/chronic_kidney_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/car_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/car_resample_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,rep"
+10_GENERALIZATION_CHECKPOINTS/lymphography_full_summary.csv,COCOK,Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan
+10_GENERALIZATION_CHECKPOINTS/lymphography_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"
+10_GENERALIZATION_CHECKPOINTS/car_full_raw.csv,COCOK,"Identitas/kategori sama; numerik sesuai presisi acuan; waktu tidak dibandingkan; percobaan dipasangkan dengan identitas unik dataset,method,run"

@@ -1,0 +1,2 @@
+rows,unique_users,features,duplicate_users,missing_cells,min_cardinality,max_cardinality,all_values_in_1_2_3
+6658,6658,13,0,0,3,3,True
