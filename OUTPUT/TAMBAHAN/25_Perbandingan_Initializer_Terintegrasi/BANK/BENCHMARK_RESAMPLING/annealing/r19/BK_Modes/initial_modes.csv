@@ -1,0 +1,6 @@
+cluster_id,a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16,a17,a18,a19,a20,a21,a22,a23,a24,a25,a26,a27,a28,a29,a30,a31,a32,a33,a34,a35,a36,a37,a38
+0,missing,C,A,00,00,missing,S,2,000,missing,missing,E,missing,missing,missing,missing,B,Y,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,SHEET,Q1,Q1,Q3,missing,0000,missing
+1,missing,C,A,00,00,missing,missing,missing,000,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,COIL,Q4,Q3,Q1,missing,0000,missing
+2,missing,C,A,00,50,T,missing,missing,000,missing,missing,G,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,COIL,Q1,Q1,Q1,missing,0000,missing
+3,missing,C,A,00,00,missing,S,2,000,missing,missing,E,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,SHEET,Q2,Q2,Q1,missing,0000,missing
+4,ZS,C,A,00,85,T,missing,missing,000,missing,missing,E,missing,missing,missing,Y,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,SHEET,Q1,Q2,Q1,missing,0000,missing
