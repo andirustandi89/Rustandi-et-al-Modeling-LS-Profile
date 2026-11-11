@@ -1,0 +1,9 @@
+{
+  "pendikom_source_rows": 565,
+  "pendikom_ils_rows": 461,
+  "lms_train": 4660,
+  "lms_test": 1998,
+  "pendikom_train": 322,
+  "pendikom_test": 139,
+  "split_seed": 161600
+}

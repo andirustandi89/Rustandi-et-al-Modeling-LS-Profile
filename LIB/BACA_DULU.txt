@@ -1,0 +1,1 @@
+Lihat README.md di akar proyek. Jalankan 00_Jalankan_Pipeline_REVISED.ipynb untuk seluruh tahap 01 sampai 24.

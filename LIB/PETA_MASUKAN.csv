@@ -1,0 +1,8 @@
+peran,sumber_aktif,catatan
+LMS clustering penuh,OUTPUT/PRAPROSES/01_Praproses_main_LMS/05_dataset_behavioral_categorical_skala.csv,13 fitur; user tidak menjadi prediktor
+LMS holdout/sensitivitas,OUTPUT/PRAPROSES/01_Praproses_main_LMS/02_dataset_behavioral_numeric.csv,Ambang holdout tetap fit pada train
+Pendikom numerik,OUTPUT/PRAPROSES/02_Praproses_Pendikom/01_numeric_behavioral_pendikom.csv,18 fitur; userid/courseid/split bukan prediktor
+Pendikom kategorikal,OUTPUT/PRAPROSES/02_Praproses_Pendikom/02_categorical_behavioral_pendikom.csv,Dipisah menurut kolom split
+Indeks dan label ILS independen,LIB/PROTOKOL/pendikom_ils_labels.csv,Referensi evaluasi; bukan fitur
+Input model holdout LMS,OUTPUT/SPLIT/LMS/TRAIN/ dan TEST/,Turunan numerik final; kategori train-only
+Input model holdout Pendikom,OUTPUT/SPLIT/PENDIKOM/TRAIN/ dan TEST/,Turunan dua CSV praproses final

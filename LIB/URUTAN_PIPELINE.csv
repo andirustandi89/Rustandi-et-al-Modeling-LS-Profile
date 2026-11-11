@@ -1,0 +1,25 @@
+urutan,notebook,tahap
+1,01_Praproses_main_LMS.ipynb,Praproses main LMS
+2,02_Praproses_Pendikom.ipynb,Praproses Pendikom
+3,03_Lingkungan_dan_Reproduksibilitas.ipynb,Lingkungan dan Reproduksibilitas
+4,04_Split_LMS_Pendikom.ipynb,Split LMS Pendikom
+5,05_Verifikasi_Formulasi_CARE_KM.ipynb,Verifikasi Formulasi CARE KM
+6,06_Verifikasi_Inisialisasi_Baseline.ipynb,Verifikasi Inisialisasi Baseline
+7,07_Eksperimen_LMS_Full.ipynb,Eksperimen LMS Full
+8,08_Lintasan_Refinement_CARE_KM.ipynb,Lintasan Refinement CARE KM
+9,09_Robustness_LMS_30x80.ipynb,Robustness LMS 30x80
+10,10_Statistik_LMS.ipynb,Statistik LMS
+11,11_Interpretasi_Semantik_FSLSM.ipynb,Interpretasi Semantik FSLSM
+12,12_Sensitivitas_Aturan_Semantik.ipynb,Sensitivitas Aturan Semantik
+13,13_Stabilitas_Semantik.ipynb,Stabilitas Semantik
+14,14_Stabilitas_Partisi.ipynb,Stabilitas Partisi
+15,15_Sensitivitas_Praproses.ipynb,Sensitivitas Praproses
+16,16_Sensitivitas_Candidate_Budget.ipynb,Sensitivitas Candidate Budget
+17,17_Ablasi_Komponen_CARE_KM.ipynb,Ablasi Komponen CARE KM
+18,18_Audit_Dataset_Benchmark.ipynb,Audit Dataset Benchmark
+19,19_Generalisasi_Benchmark.ipynb,Generalisasi Benchmark
+20,20_Statistik_Benchmark.ipynb,Statistik Benchmark
+21,21_Runtime_Stabilitas_Skalabilitas.ipynb,Runtime Stabilitas Skalabilitas
+22,22_Holdout_LMS_Pendikom.ipynb,Holdout LMS Pendikom
+23,23_Tabel_dan_Gambar.ipynb,Tabel dan Gambar
+24,24_Gambar_Reviewer.ipynb,Gambar Reviewer
