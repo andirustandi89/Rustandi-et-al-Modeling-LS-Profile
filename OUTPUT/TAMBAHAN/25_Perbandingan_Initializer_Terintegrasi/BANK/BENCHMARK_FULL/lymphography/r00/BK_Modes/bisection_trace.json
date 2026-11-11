@@ -1,0 +1,149 @@
+[
+  {
+    "step": 1,
+    "parent_node": 0,
+    "parent_rows": 148,
+    "parent_cost": 1013,
+    "child_nodes": [
+      1,
+      2
+    ],
+    "child_rows": [
+      71,
+      77
+    ],
+    "child_costs": [
+      418,
+      438
+    ],
+    "parent_mode": [
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1",
+      "2",
+      "1",
+      "2",
+      "2",
+      "4",
+      "3",
+      "8",
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "farthest_source_row": 139,
+    "two_modes_iterations": 10,
+    "empty_repairs": 0,
+    "objective_history": [
+      982,
+      965,
+      927,
+      906,
+      902,
+      890,
+      869,
+      861,
+      856,
+      856
+    ]
+  },
+  {
+    "step": 2,
+    "parent_node": 2,
+    "parent_rows": 77,
+    "parent_cost": 438,
+    "child_nodes": [
+      3,
+      4
+    ],
+    "child_rows": [
+      73,
+      4
+    ],
+    "child_costs": [
+      391,
+      22
+    ],
+    "parent_mode": [
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1",
+      "2",
+      "2",
+      "2",
+      "2",
+      "8",
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "farthest_source_row": 139,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      413,
+      413
+    ]
+  },
+  {
+    "step": 3,
+    "parent_node": 1,
+    "parent_rows": 71,
+    "parent_cost": 418,
+    "child_nodes": [
+      5,
+      6
+    ],
+    "child_rows": [
+      40,
+      31
+    ],
+    "child_costs": [
+      196,
+      160
+    ],
+    "parent_mode": [
+      "2",
+      "2",
+      "1",
+      "1",
+      "1",
+      "2",
+      "1",
+      "2",
+      "1",
+      "2",
+      "3",
+      "3",
+      "3",
+      "4",
+      "3",
+      "2",
+      "2",
+      "1"
+    ],
+    "farthest_source_row": 44,
+    "two_modes_iterations": 6,
+    "empty_repairs": 0,
+    "objective_history": [
+      391,
+      375,
+      359,
+      357,
+      356,
+      356
+    ]
+  }
+]

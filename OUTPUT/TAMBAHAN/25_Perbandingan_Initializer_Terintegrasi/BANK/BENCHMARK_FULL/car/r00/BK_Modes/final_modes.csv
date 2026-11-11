@@ -1,0 +1,5 @@
+cluster_id,buying,maint,doors,persons,lug_boot,safety
+0,vhigh,vhigh,3,4,small,low
+1,med,med,4,more,med,med
+2,high,high,2,2,big,high
+3,high,med,4,more,med,med

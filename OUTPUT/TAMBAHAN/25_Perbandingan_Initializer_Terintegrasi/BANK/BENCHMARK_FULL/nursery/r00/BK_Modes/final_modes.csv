@@ -1,0 +1,6 @@
+cluster_id,parents,has_nurs,form,children,housing,finance,social,health
+0,usual,proper,completed,2,less_conv,inconv,slightly_prob,recommended
+1,great_pret,critical,complete,1,convenient,convenient,nonprob,not_recom
+2,pretentious,less_proper,incomplete,3,critical,convenient,problematic,priority
+3,usual,less_proper,incomplete,3,critical,inconv,problematic,priority
+4,usual,improper,foster,more,critical,convenient,slightly_prob,priority

@@ -1,0 +1,45 @@
+[
+  {
+    "step": 1,
+    "parent_node": 0,
+    "parent_rows": 303,
+    "parent_cost": 2078,
+    "child_nodes": [
+      1,
+      2
+    ],
+    "child_rows": [
+      161,
+      142
+    ],
+    "child_costs": [
+      864,
+      852
+    ],
+    "parent_mode": [
+      "Q3",
+      "1.0",
+      "4.0",
+      "Q1",
+      "Q1",
+      "0.0",
+      "0.0",
+      "Q1",
+      "0.0",
+      "Q1",
+      "1.0",
+      "0.0",
+      "3.0"
+    ],
+    "farthest_source_row": 12,
+    "two_modes_iterations": 5,
+    "empty_repairs": 0,
+    "objective_history": [
+      1834,
+      1734,
+      1719,
+      1716,
+      1716
+    ]
+  }
+]

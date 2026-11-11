@@ -1,0 +1,60 @@
+[
+  {
+    "step": 1,
+    "parent_node": 0,
+    "parent_rows": 400,
+    "parent_cost": 4934,
+    "child_nodes": [
+      1,
+      2
+    ],
+    "child_rows": [
+      198,
+      202
+    ],
+    "child_costs": [
+      1738,
+      2456
+    ],
+    "parent_mode": [
+      "Q3",
+      "80",
+      "1.020",
+      "0",
+      "0",
+      "normal",
+      "normal",
+      "notpresent",
+      "notpresent",
+      "Q1",
+      "Q1",
+      "Q2",
+      "missing",
+      "missing",
+      "Q1",
+      "Q4",
+      "missing",
+      "missing",
+      "no",
+      "no",
+      "no",
+      "good",
+      "no",
+      "no"
+    ],
+    "farthest_source_row": 56,
+    "two_modes_iterations": 9,
+    "empty_repairs": 0,
+    "objective_history": [
+      4386,
+      4291,
+      4247,
+      4241,
+      4233,
+      4223,
+      4198,
+      4194,
+      4194
+    ]
+  }
+]

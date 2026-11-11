@@ -1,0 +1,63 @@
+[
+  {
+    "step": 1,
+    "parent_node": 0,
+    "parent_rows": 160,
+    "parent_cost": 303,
+    "child_nodes": [
+      1,
+      2
+    ],
+    "child_rows": [
+      58,
+      102
+    ],
+    "child_costs": [
+      72,
+      162
+    ],
+    "parent_mode": [
+      "1",
+      "1",
+      "1"
+    ],
+    "farthest_source_row": 3,
+    "two_modes_iterations": 3,
+    "empty_repairs": 0,
+    "objective_history": [
+      238,
+      234,
+      234
+    ]
+  },
+  {
+    "step": 2,
+    "parent_node": 2,
+    "parent_rows": 102,
+    "parent_cost": 162,
+    "child_nodes": [
+      3,
+      4
+    ],
+    "child_rows": [
+      52,
+      50
+    ],
+    "child_costs": [
+      60,
+      93
+    ],
+    "parent_mode": [
+      "2",
+      "2",
+      "2"
+    ],
+    "farthest_source_row": 158,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      153,
+      153
+    ]
+  }
+]

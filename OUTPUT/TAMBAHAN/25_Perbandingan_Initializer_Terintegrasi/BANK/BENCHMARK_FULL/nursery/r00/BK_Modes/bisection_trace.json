@@ -1,0 +1,144 @@
+[
+  {
+    "step": 1,
+    "parent_node": 0,
+    "parent_rows": 12960,
+    "parent_cost": 70848,
+    "child_nodes": [
+      1,
+      2
+    ],
+    "child_rows": [
+      5362,
+      7598
+    ],
+    "child_costs": [
+      23445,
+      35849
+    ],
+    "parent_mode": [
+      "great_pret",
+      "critical",
+      "complete",
+      "1",
+      "convenient",
+      "convenient",
+      "nonprob",
+      "not_recom"
+    ],
+    "farthest_source_row": 300,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      59294,
+      59294
+    ]
+  },
+  {
+    "step": 2,
+    "parent_node": 2,
+    "parent_rows": 7598,
+    "parent_cost": 35849,
+    "child_nodes": [
+      3,
+      4
+    ],
+    "child_rows": [
+      3857,
+      3741
+    ],
+    "child_costs": [
+      15872,
+      16009
+    ],
+    "parent_mode": [
+      "usual",
+      "proper",
+      "completed",
+      "2",
+      "less_conv",
+      "inconv",
+      "slightly_prob",
+      "recommended"
+    ],
+    "farthest_source_row": 1447,
+    "two_modes_iterations": 3,
+    "empty_repairs": 0,
+    "objective_history": [
+      32439,
+      31881,
+      31881
+    ]
+  },
+  {
+    "step": 3,
+    "parent_node": 1,
+    "parent_rows": 5362,
+    "parent_cost": 23445,
+    "child_nodes": [
+      5,
+      6
+    ],
+    "child_rows": [
+      3139,
+      2223
+    ],
+    "child_costs": [
+      12068,
+      9143
+    ],
+    "parent_mode": [
+      "great_pret",
+      "critical",
+      "complete",
+      "1",
+      "convenient",
+      "convenient",
+      "nonprob",
+      "not_recom"
+    ],
+    "farthest_source_row": 5767,
+    "two_modes_iterations": 2,
+    "empty_repairs": 0,
+    "objective_history": [
+      21211,
+      21211
+    ]
+  },
+  {
+    "step": 4,
+    "parent_node": 4,
+    "parent_rows": 3741,
+    "parent_cost": 16009,
+    "child_nodes": [
+      7,
+      8
+    ],
+    "child_rows": [
+      2328,
+      1413
+    ],
+    "child_costs": [
+      9142,
+      5736
+    ],
+    "parent_mode": [
+      "usual",
+      "less_proper",
+      "incomplete",
+      "3",
+      "critical",
+      "inconv",
+      "problematic",
+      "priority"
+    ],
+    "farthest_source_row": 2542,
+    "two_modes_iterations": 3,
+    "empty_repairs": 0,
+    "objective_history": [
+      15061,
+      14878,
+      14878
+    ]
+  }
+]
