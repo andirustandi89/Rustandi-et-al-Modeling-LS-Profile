@@ -1,0 +1,15 @@
+CARE-KM candidate-budget sensitivity: q={2,4,8,16,32,64}
+Purpose: diagnostic sensitivity analysis; not hyperparameter tuning or model selection.
+Matched design: 20 identical 80% LMS resamples for every q.
+Derived budgets: q=2->1, q=4->2, q=8->3, q=16->4, q=32->5, q=64->6.
+Reference operating point: q=16 (pre-specified manuscript setting).
+
+q=2: init=20988.450, final=19339.200, DBI=1.753666, SI=0.118516, iter=3.500, accepted=1.000, algorithm_sec=0.439
+q=4: init=20784.250, final=19325.050, DBI=1.736483, SI=0.115943, iter=3.200, accepted=2.000, algorithm_sec=0.457
+q=8: init=20517.700, final=19288.200, DBI=1.703686, SI=0.117011, iter=3.000, accepted=3.000, algorithm_sec=0.523
+q=16: init=20211.400, final=19191.100, DBI=1.708762, SI=0.119146, iter=2.700, accepted=4.000, algorithm_sec=0.703
+q=32: init=19817.650, final=19064.750, DBI=1.661382, SI=0.121896, iter=2.550, accepted=5.000, algorithm_sec=1.178
+q=64: init=19415.200, final=18866.150, DBI=1.828947, SI=0.114318, iter=2.550, accepted=6.000, algorithm_sec=2.330
+
+Interpretation rule: q=16 must be described as the pre-specified intermediate search budget, not as an optimum. Use the wider sensitivity grid to determine whether smaller budgets materially degrade post-convergence behavior and whether larger budgets provide diminishing post-convergence gains relative to their additional computational cost.
+Do not choose a new q from this table solely because it has the best DBI, SI, or cost. If q=16 is retained, justify it as a bounded operating point supported by stability/trade-off evidence.

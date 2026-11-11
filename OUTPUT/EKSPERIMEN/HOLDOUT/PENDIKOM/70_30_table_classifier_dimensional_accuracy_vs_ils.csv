@@ -1,0 +1,4 @@
+Classifier,Active / Reflective,Sensing / Intuitive,Visual / Verbal,Sequential / Global,Mean Dimensional Accuracy
+NB,92.81%,83.45%,94.96%,92.09%,90.83%
+DT,93.53%,76.26%,94.96%,87.77%,88.13%
+SVM,93.53%,80.58%,94.24%,90.65%,89.75%

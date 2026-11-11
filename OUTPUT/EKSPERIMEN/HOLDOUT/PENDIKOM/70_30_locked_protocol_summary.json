@@ -1,0 +1,34 @@
+{
+  "protocol": "PENDIKOM WITH_ILS cohort; frozen 322/139 split; train-only stay references; CARE-KM and semantic mapping fitted on train; 139 holdout evaluated against ILS",
+  "source": "/content/drive/MyDrive/REVISED/OUTPUT/PRAPROSES/02_Praproses_Pendikom/02_categorical_behavioral_pendikom.csv",
+  "repository": "https://github.com/Dewi2501/Learning-Style-Based",
+  "selection": "has_ils == 1",
+  "source_rows": 461,
+  "historical_compiled_source_rows": 565,
+  "independent_ils_reference": "/content/drive/MyDrive/REVISED/LIB/PROTOKOL/pendikom_ils_labels.csv",
+  "ils_rows": 461,
+  "train_rows": 322,
+  "test_rows": 139,
+  "split_file": "/content/drive/MyDrive/REVISED/OUTPUT/SPLIT/PENDIKOM/70_30_groundtruth_split_audit.csv",
+  "split_seed_reference": 161600,
+  "core_features": 19,
+  "used_features": 18,
+  "constant_features": [
+    "navigation_skip"
+  ],
+  "resolved_train_learners": 322,
+  "unresolved_train_learners": 0,
+  "care_train_dbi": 1.6518771506271506,
+  "care_train_si": 0.1298109259488564,
+  "care_config": {
+    "candidate_rule": "separation",
+    "candidate_budget": 16,
+    "min_gain": 0.0
+  },
+  "parent_initializer": "Cao",
+  "refinement_budget_rule": "ceil(log2(candidate_budget))",
+  "derived_refinement_budget": 4,
+  "exchange_depth_is_independent_hyperparameter": false,
+  "care_implementation_version": "encoded-incremental-derived-budget-v3",
+  "groundtruth_usage": "ILS labels do not form CARE-KM clusters or semantic mapping; they are used as the independent questionnaire reference."
+}

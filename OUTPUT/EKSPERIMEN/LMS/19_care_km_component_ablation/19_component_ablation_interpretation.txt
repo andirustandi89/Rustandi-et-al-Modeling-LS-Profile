@@ -1,0 +1,20 @@
+CARE-KM TRUE COMPONENT ABLATION
+Purpose: isolate component contributions; not model selection.
+Matched design: 20 identical 80% LMS resamples.
+Fixed q=16; derived E_max=4; global positive-gain acceptance held fixed.
+
+A0 A0 Cao parent: init=21279.300, final=19526.100, DBI=1.793429, SI=0.111305, iter=3.650, accepted=0.000, init_sec=0.075, total_sec=0.440
+A1 A1 Global + density: init=20652.000, final=18990.750, DBI=6.173664, SI=0.063598, iter=3.450, accepted=3.650, init_sec=0.433, total_sec=0.779
+A2 A2 Region + density: init=19977.150, final=19118.600, DBI=2.592601, SI=0.091563, iter=2.750, accepted=4.000, init_sec=0.416, total_sec=0.734
+A3 A3 Global + separation: init=20605.200, final=19272.200, DBI=1.666189, SI=0.120211, iter=3.000, accepted=3.700, init_sec=0.448, total_sec=0.766
+A4 A4 Full CARE-KM: init=20211.400, final=19191.100, DBI=1.708762, SI=0.119146, iter=2.700, accepted=4.000, init_sec=0.399, total_sec=0.720
+
+PLANNED COMPONENT CONTRASTS (Holm-adjusted within each metric)
+- C0: Full CARE-KM vs Cao parent
+- C1: Region effect under density screening
+- C2: Region effect under separation screening
+- C3: Separation effect without region restriction
+- C4: Separation effect with region restriction
+
+Interpretation guidance: distinguish quality contributions from efficiency contributions. A component may reduce candidate-evaluation time without improving DBI/SI, or may improve the initialization objective without producing a statistically detectable post-convergence difference. Report those outcomes directly rather than forcing a superiority claim.
+Do not describe A1-A3 as proposed competing algorithms; they are diagnostic ablations/controls. Full CARE-KM remains A4 and is computed by the frozen official ck.care_init() implementation.

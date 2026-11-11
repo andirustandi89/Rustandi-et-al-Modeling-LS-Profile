@@ -1,0 +1,51 @@
+{
+  "analysis": "preprocessing sensitivity",
+  "primary_reconstruction_exact_match": true,
+  "numeric_source": "/content/drive/MyDrive/REVISED/OUTPUT/PRAPROSES/01_Praproses_main_LMS/02_dataset_behavioral_numeric.csv",
+  "configurations": [
+    {
+      "name": "PRIMARY",
+      "q1": 0.3333333333333333,
+      "q2": 0.6666666666666666,
+      "graf_scale": 1.0
+    },
+    {
+      "name": "EMPIRICAL_Q30_Q70",
+      "q1": 0.3,
+      "q2": 0.7,
+      "graf_scale": 1.0
+    },
+    {
+      "name": "EMPIRICAL_Q35_Q65",
+      "q1": 0.35,
+      "q2": 0.65,
+      "graf_scale": 1.0
+    },
+    {
+      "name": "GRAF_MINUS_10PCT",
+      "q1": 0.3333333333333333,
+      "q2": 0.6666666666666666,
+      "graf_scale": 0.9
+    },
+    {
+      "name": "GRAF_PLUS_10PCT",
+      "q1": 0.3333333333333333,
+      "q2": 0.6666666666666666,
+      "graf_scale": 1.1
+    }
+  ],
+  "tuning_or_model_selection": false,
+  "care_config": {
+    "candidate_rule": "separation",
+    "candidate_budget": 16,
+    "min_gain": 0.0
+  },
+  "K": 16,
+  "semantic_rule": "mode-first; member evidence only for exact mode tie",
+  "outputs": [
+    "preprocessing_sensitivity_summary.csv",
+    "preprocessing_sensitivity_thresholds.csv",
+    "preprocessing_sensitivity_feature_changes.csv",
+    "preprocessing_sensitivity_learner_semantic.csv"
+  ]
+}
